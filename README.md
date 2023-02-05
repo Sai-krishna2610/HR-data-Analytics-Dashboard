@@ -1,4 +1,4 @@
-# HR-data-Analytics-Dashboard
+# HR-Analytics-Dashboard
 
 # It is data about employees and their education and attrition count
 It contains different columns that are
